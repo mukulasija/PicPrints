@@ -2,4 +2,28 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#479dff</color>
+    <color name="colorOnPrimary">#ffffff</color>
+
+    <color name="colorPrimaryVariant">#3381fe</color>
+    <color name="onPrimaryVariant">#ffffff</color>
+
+    <color name="colorSecondary">#f95e07</color>
+    <color name="colorOnSecondary">#ffffff</color>
+
+
+    <color name="colorPrimaryText">#1F2528</color>
+    <color name="colorSecondaryText">#404749</color><![CDATA[
+    ]]><color name="colorTertiaryText">#8A8E90</color>
+
+
+    <color name="colorPlaceholderBackground">#f2f6fb</color>
+    <color name="splash_bg">#3381ff</color>
+
+    <color name="gray">#EBEAF0</color>
+    <color name="colorDisabled">#909090</color>
+    <color name="rippleColor">#DEDEDE</color>
+    <color name="rippleColorPrimary">#94C6FF</color>
+    <color name="rippleDrawableColor">#59000000</color>
 </resources>
