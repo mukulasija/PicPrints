@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="?attr/backgroundColor"
     tools:context=".ui.screens.auth.gettingStarted.GettingStartedFragment">
 
     <com.google.android.material.card.MaterialCardView
@@ -39,7 +38,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:fontFamily="@font/poppins_semi_bold"
-        android:text="Securely store\nyour files"
+        android:text="Snap, Print\nAnd Cherish"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.MdcTypographyStyles.HeadlineLarge"
         android:textColor="@color/colorSecondaryText"
@@ -55,7 +54,7 @@
         android:layout_marginBottom="48dp"
         android:alpha="0.7"
         android:fontFamily="@font/poppins_light"
-        android:text="Save all your important documents on the cloud with maximum security"
+        android:text="Turn moments into keepsakes, delivered to your door."
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.MdcTypographyStyles.TitleMedium"
         android:textColor="@color/colorSecondaryText"
